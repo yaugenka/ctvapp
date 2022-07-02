@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ctv</string>
+
+    <string name="error_phone">Допустимый формат: +7 xxx</string>
+    <string name="error_sms">Неверный код</string>
+    <string name="error_no_subscription">У вас нет действующий подписки</string>
+
+    <string name="prompt_input_phone">Введите номер вашего телефона</string>
+    <string name="prompt_internet_connection_required">Необходимо интернет соединение</string>
+    <string name="prompt_input_sms">Введите код\nиз СМС сообщения</string>
+    <string name="prompt_hdmi">Выберите откуда выводить\nизибражение на экран</string>
+
+    <string name="value_phone_prefix">+7</string>
+
+    <string name="action_connect">Подключить</string>
+    <string name="action_android_tv">Android TV</string>
+    <string name="action_hdmi1">HDMI 1</string>
+    <string name="action_hdmi2">HDMI 2</string>
+</resources>
